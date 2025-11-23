@@ -108,3 +108,7 @@ If the cooldown is not finished:
 ❌ A notification will show the remaining time (hours + minutes).
 
 
+<img width="922" height="837" alt="image" src="https://github.com/user-attachments/assets/61722725-25e0-4336-86d3-7af1accff21a" />
+
+
+

@@ -1,4 +1,5 @@
 
+
 # 🎄 TRAP_christmastree
 
 **License: MIT**
@@ -41,7 +42,7 @@ This script requires:
 
 Make sure your `server.cfg` includes:
 
-```
+```cfg
 ensure oxmysql
 ensure ox_lib
 ensure ox_inventory
@@ -107,8 +108,20 @@ They will receive a random item.
 If the cooldown is not finished:
 ❌ A notification will show the remaining time (hours + minutes).
 
+---
 
-<img width="922" height="837" alt="image" src="https://github.com/user-attachments/assets/61722725-25e0-4336-86d3-7af1accff21a" />
+## 🔧 Features to Add/Toggle
+
+* You can enable/disable the **map blip** for the tree in `config.lua`.
+
+---
+
+## 💬 Support / Script Creation
+
+For support or custom script creation, join our Discord:
+[https://discord.gg/rjjU2y93X7](https://discord.gg/rjjU2y93X7)
+
+---
 
 
-
+Veux‑tu que je fasse ça ?
